@@ -1,8 +1,0 @@
----
-title: "HelloWorld"
-author: "Jonathan Yarber"
-date: "5/18/2020"
-output: pdf_document
----
-
-## This is a markdown file
